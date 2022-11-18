@@ -1,7 +1,11 @@
+@font-face {
+    font-family: font;
+    src: url('./font.ttf');
+}
+
 body {
     background-color: #0e212b;
     font-family: font;
-    src: url('./font.ttf');
     color: #1C5878;
     line-height: 250%;
     text-align: center;
