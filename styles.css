@@ -1,15 +1,16 @@
 body {
     background-color: #0e212b;
     font-family: JetBrains Mono;
+    src: url('./JetBrainsMono-Regular.ttf');
     color: #1C5878;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     line-height: 250%;
+    text-align: center;
 }
 
 .hoverColorChange {
     color: #1C5878;
     transition: color 0.25s ease-out;
-    text-align: center;
 }
 
 .hoverColorChange:hover {
@@ -17,67 +18,67 @@ body {
 }
 
 #bash {
-    font-family: JetBrains Mono;
+    
 }
 
 #cpp {
-    font-family: JetBrains Mono;
+    
 }
 
 #csh {
-    font-family: JetBrains Mono;
+    
 }
 
 #c {
-    font-family: JetBrains Mono;
+    
 }
 
 #java {
-    font-family: JetBrains Mono;
+    
 }
 
 #javascript {
-    font-family: JetBrains Mono;
+    
 }
 
 #python {
-    font-family: JetBrains Mono;
+    
 }
 
 #html {
-    font-family: JetBrains Mono;
+    
 }
 
 #php {
-    font-family: JetBrains Mono;
+    
 }
 
 #rust {
-    font-family: JetBrains Mono;
+    
 }
 
 #ruby {
-    font-family: JetBrains Mono;
+    
 }
 
 #fortran {
-    font-family: JetBrains Mono;
+    
 }
 
 #powershell {
-    font-family: JetBrains Mono;
+    
 }
 
 #lisp {
-    font-family: JetBrains Mono;
+    
 }
 
 #deadfish {
-    font-family: JetBrains Mono;
+    
     font-size: 81.25%;
 }
 
 #brainfuck {
-    font-family: JetBrains Mono;
+    
     font-size: 181.25%;
 }
